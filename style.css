@@ -1,0 +1,36 @@
+.classe1{
+    width: 400px;
+    height: 250px;
+    padding: 10px;
+    border: 3px solid red;
+}
+.classe2{
+    background-color: blue;
+    color:white;
+}
+.ex1{
+    border: solid 3px rgb(28, 25, 25);
+    
+    height: 250px;
+}
+.classe3{
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 30px;
+}
+
+.classe4{
+    background-color: blue;
+
+}
+.classe5{
+    background-color: antiquewhite;
+
+}
+.classe6{
+    color: red;
+}
+.classe7{
+    font-size: normal;
+}
+
